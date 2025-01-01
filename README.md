@@ -9,7 +9,6 @@ Namedays in JSON:
 {
     "01-01": ["Laimnesis","Solvita","Solvija"],
     "01-02": ["Indulis","Ivo","Iva","Ivis"],
-    ...
 }
 ```
 - Extended namedays
